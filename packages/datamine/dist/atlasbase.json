@@ -6,7 +6,6 @@
         "red": [
           "Gripped Gloves",
           "Spiked Gloves",
-          "Cerulean Ring",
           "Gripped Gloves",
           "Spiked Gloves"
         ],
@@ -24,12 +23,10 @@
       "region": "Haewark Hamlet",
       "loot": {
         "red": [
-          "Marble Amulet",
-          "Opal Ring"
+          "Marble Amulet"
         ],
         "yellow": [
-          "Marble Amulet",
-          "Opal Ring"
+          "Marble Amulet"
         ],
         "white": [
           "Marble Amulet"
@@ -40,11 +37,9 @@
       "region": "Lex Ejoris",
       "loot": {
         "red": [
-          "Cerulean Ring",
           "Convoking Wand"
         ],
         "yellow": [
-          "Cerulean Ring",
           "Convoking Wand"
         ],
         "white": [
@@ -124,7 +119,6 @@
       "loot": {
         "red": [
           "Fingerless Silk Gloves",
-          "Opal Ring",
           "Vanguard Belt"
         ],
         "yellow": [
